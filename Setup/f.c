@@ -4,7 +4,6 @@ int main()
 
 {
 
-    printf("Hellow ham!");
-
+    printf("This is my first programe to push on git hub");
     return 0;
 }
