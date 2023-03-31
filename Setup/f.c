@@ -4,7 +4,7 @@ int main()
 
 {
 
-    for(int i = 0; i++<10; printf("%d ", i));
+    printf("Hellow ham!");
 
     return 0;
 }
