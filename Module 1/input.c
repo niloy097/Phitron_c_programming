@@ -13,7 +13,7 @@ int main()
 
     return 0;
 }*/
-#include<stdio.h>
+/*#include<stdio.h>
 
 int main()
 
@@ -23,5 +23,20 @@ int main()
     char c;
     scanf("%d%c %d%c", &a, &c, &b, &c);
     printf("%d%c %d%c", a, c, b, c);
+    return 0;
+}
+*/
+#include<stdio.h>
+
+int main()
+
+{
+
+    int x, y;
+    printf("Enter two val: ");
+    scanf("(%da %db)", &x, &y);
+    printf("Your entered val is: (%da %db)", x, y);
+
+
     return 0;
 }
